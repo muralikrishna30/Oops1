@@ -1,0 +1,7 @@
+"Bank_Name","Transaction_Date","Type","Amount","transaction_To","transaction_From"
+"bank1","Oct 1 2019","remove","99.20 rs","182","198"
+"bank1","Oct 2 2019","add","2000.10 rs","198","188"
+"bank2","03-10-2019","remove","99.40 rs","182","198"
+"bank2","04-10-2019","add","2123.50 rs","198","188"
+"bank3","5 Oct 2019","remove","5 euro 7 cents ","182","198"
+"bank3","6 Oct 2019","add","1060 euro 8 cents ","198","188"
